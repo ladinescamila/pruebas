@@ -1,0 +1,12 @@
+dialogo 1
+dialogo 2
+dialogo 3
+dialogo 4
+dialogo 5
+dialogo 6
+dialogo 7
+dialogo 8
+dialogo 9
+dialogo 10
+dialogo 11
+dialogo 12
